@@ -1,0 +1,8 @@
+animal
+plants
+fishes
+banana
+oranges
+penta
+tree
+chu
